@@ -27,17 +27,17 @@ pip install -r requirements.txt
 
 ```
 
-5. **Configuration:**
+## Configuration:
 During the first run, the tool will prompt you for the path to your service account key JSON file and your YouTube API key. It will store these securely in a config.json file for future use. Ensure config.json and any sensitive files are added to .gitignore.
 
-6. **Usage**
+## Usage
 Run the script from the command line:
 
 Copy code
 ```python script.py```
 Follow the interactive prompts to choose a Google Sheets spreadsheet, enter a YouTube channel name, and start the video data import process.
 
-7. **License**
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
