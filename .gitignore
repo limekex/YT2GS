@@ -1,0 +1,14 @@
+# Ignorer konfigurasjonsfiler
+config.json
+
+# Ignorer loggfiler
+*.log
+
+# Ignorer Sublime Text-prosjektfiler
+*.sublime-project
+*.sublime-workspace
+
+# Ytterligere filer og kataloger du ønsker å ignorere
+node_modules/
+.DS_Store
+.env
