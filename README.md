@@ -43,14 +43,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### requirements.txt
 
-For `requirements.txt`, list down all the Python packages that your project depends on. Given the details you've shared about your project, it might look something like this:
-
 ```
 gspread>=3.0.0
 google-auth>=1.0.0
 google-auth-oauthlib>=0.0.0
 google-api-python-client>=1.0.0
 ```
-Make sure to adjust the version numbers based on the specific versions you are using or plan to use. This file will ensure that anyone setting up your project can easily install all necessary dependencies in one go using `pip install -r requirements.txt`.
-
-Remember to replace the placeholders and adjust any details in both the `README.md` and `requirements.txt` files to fit your project's specific requirements and setup instructions more closely.
