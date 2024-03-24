@@ -1,0 +1,5 @@
+### requirements.txt
+gspread>=3.0.0
+google-auth>=1.0.0
+google-auth-oauthlib>=0.0.0
+google-api-python-client>=1.0.0
